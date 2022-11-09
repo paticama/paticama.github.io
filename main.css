@@ -1,12 +1,15 @@
 <!-- Aquí se debe definir los estilos CSS --> 
 
 p {
-	font: red;
+	color: Lime !important;
 }
 
+body{
+	background-color: black;
+}
 
 h1{
 	text-align: center;
 	text-transform: uppercase;
-	font: red;
+	color: Lime !important;
 }
